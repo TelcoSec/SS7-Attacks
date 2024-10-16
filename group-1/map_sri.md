@@ -1,10 +1,18 @@
 # MAP\_SRI
 
-**SS/MAP MAP\_SRI (Send Routing Information)**
+#### **Location Disclosure Using Call Setup Messages**
 
-The MAP\_SRI (Send Routing Information) is a signaling message used in GSM mobile networks. It is part of the Mobile Application Part (MAP) protocol, implemented by the Signaling System No. 7 (SS7).
+Location disclosure using call setup messages is a process where the mobile network determines the geographical location of a mobile subscriber during the initial stages of a call setup. This is typically achieved through specific signaling messages and network components.&#x20;
+
+When a call is initiated, the network leverages information such as IMSI, MSRN, and cell ID obtained during the MAP\_SRI procedure to approximate the subscriber's location.&#x20;
+
+This information is crucial for call routing, location-based services, and emergency services, ensuring both efficient connectivity and regulatory compliance.
 
 <figure><img src="../.gitbook/assets/RFS-Location-Attack.png" alt=""><figcaption></figcaption></figure>
+
+#### **SS/MAP MAP\_SRI (Send Routing Information)**
+
+The MAP\_SRI (Send Routing Information) is a signaling message used in GSM mobile networks. It is part of the Mobile Application Part (MAP) protocol, implemented by the Signaling System No. 7 (SS7).
 
 The main purpose of MAP\_SRI is to obtain routing information necessary for delivering a call to the correct destination.
 
