@@ -17,10 +17,11 @@
 * [SMS Attacks](group-2/sms-attacks.md)
 * [Call and SMS Interception](group-2/call-and-sms-interception.md)
 
-## Group 1
+## Location Disclosure
 
-* [ATI - Any Time Interrogation](group-1/ati-any-time-interrogation.md)
-* [MAP\_SRI](group-1/map\_sri.md)
+* [ATI - Any Time Interrogation](location-disclosure/ati-any-time-interrogation.md)
+* [🔥 Call Setup Messages](location-disclosure/call-setup-messages.md)
+* [SMS protocol messages](location-disclosure/sms-protocol-messages.md)
 
 ## Documentation
 
@@ -31,3 +32,4 @@
 * [Mobile Self Defense](videos/mobile-self-defense.md)
 * [SS7map : mapping vulnerability of the international mobile roaming infrastructure](videos/ss7map-mapping-vulnerability-of-the-international-mobile-roaming-infrastructure.md)
 * [GRX Attacks: Advanced interconnect Attacks](videos/grx-attacks-advanced-interconnect-attacks.md)
+* [Locating mobile phones using SS7](videos/locating-mobile-phones-using-ss7.md)

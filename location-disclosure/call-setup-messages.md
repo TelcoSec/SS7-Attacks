@@ -1,8 +1,8 @@
-# MAP\_SRI
+# 🔥 Call Setup Messages
 
-#### **Location Disclosure Using Call Setup Messages**
+Location disclosure using call setup messages is a process where the mobile network determines the geographical location of a mobile subscriber during the initial stages of a call setup.&#x20;
 
-Location disclosure using call setup messages is a process where the mobile network determines the geographical location of a mobile subscriber during the initial stages of a call setup. This is typically achieved through specific signaling messages and network components.&#x20;
+This is typically achieved through specific signaling messages and network components.&#x20;
 
 When a call is initiated, the network leverages information such as IMSI, MSRN, and cell ID obtained during the MAP\_SRI procedure to approximate the subscriber's location.&#x20;
 

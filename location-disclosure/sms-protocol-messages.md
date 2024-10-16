@@ -1,0 +1,2 @@
+# SMS protocol messages
+
