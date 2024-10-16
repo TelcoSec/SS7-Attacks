@@ -2,6 +2,22 @@
 description: >-
   An SS7 (Signaling System No. 7) roaming agreement is a pact between mobile
   network operators that facilitates international roaming for subscribers.
+cover: .gitbook/assets/SS7 EXPERT Reveals How to Safeguard Your Calls.jpg
+coverY: -55.98933333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # SS7 Roaming Agreement
