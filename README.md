@@ -21,7 +21,9 @@ layout:
 
 The Signaling System No. 7 (SS7) is a globally used set of telephony signaling protocols that enables call setup, routing, billing, and information exchange between telephone networks.&#x20;
 
-
+{% hint style="danger" %}
+The information provided in this page is intended for educational purposes only.
+{% endhint %}
 
 The SS7 protocol suite is organized into a stack, structured in levels, similar to the OSI model:
 
