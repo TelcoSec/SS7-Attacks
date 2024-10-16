@@ -30,3 +30,4 @@
 
 * [Mobile Self Defense](videos/mobile-self-defense.md)
 * [SS7map : mapping vulnerability of the international mobile roaming infrastructure](videos/ss7map-mapping-vulnerability-of-the-international-mobile-roaming-infrastructure.md)
+* [GRX Attacks: Advanced interconnect Attacks](videos/grx-attacks-advanced-interconnect-attacks.md)
