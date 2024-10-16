@@ -41,6 +41,8 @@ Attackers have developed various sophisticated methods to pinpoint a subscriber'
    * Utilizing data from multiple cell towers to triangulate a subscriber's location with surprising accuracy.
    * Incorporating additional data sources like Wi-Fi hotspots and Bluetooth signals for more precise location tracking.
 
+<figure><img src="../.gitbook/assets/RFS-Location-Attack.png" alt=""><figcaption></figcaption></figure>
+
 #### **Implications for Subscribers**
 
 The implications of this vulnerability extend far beyond basic privacy concerns. Here are some potential risks:
