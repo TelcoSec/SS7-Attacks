@@ -34,3 +34,4 @@
 * [SS7map : mapping vulnerability of the international mobile roaming infrastructure](videos/ss7map-mapping-vulnerability-of-the-international-mobile-roaming-infrastructure.md)
 * [GRX Attacks: Advanced interconnect Attacks](videos/grx-attacks-advanced-interconnect-attacks.md)
 * [Locating mobile phones using SS7](videos/locating-mobile-phones-using-ss7.md)
+* [Rooting SIM cards](videos/rooting-sim-cards.md)
