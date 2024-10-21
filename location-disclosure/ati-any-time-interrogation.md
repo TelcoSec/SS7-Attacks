@@ -4,6 +4,8 @@
 
 This information can include subscriber location or other live data and plays a crucial role in delivering services like location-based services, fraud detection, and lawful interception.&#x20;
 
+<figure><img src="../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
+
 The ATI operation is initiated by sending an ATI Invoke message to the HLR/HSS, which then processes the request and returns the desired subscriber information.
 
 #### Process of Any Time Interrogation

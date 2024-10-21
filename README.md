@@ -35,4 +35,6 @@ The SS7 protocol suite is organized into a stack, structured in levels, similar 
 6. **ISUP (ISDN User Part)**: Handles the setup and tear down of voice and data calls over the public switched telephone network (PSTN).
 7. **MAP (Mobile Application Part)**: Utilized in mobile networks for functions such as roaming, location updating, handovers, and short message service (SMS) delivery.
 
+<figure><img src=".gitbook/assets/RFSSecurity.png" alt=""><figcaption></figcaption></figure>
+
 The SS7 stack is essential for communication between network elements in telecommunications networks, supporting efficient and robust call processing and management.
